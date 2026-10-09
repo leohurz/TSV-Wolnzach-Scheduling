@@ -1,0 +1,13 @@
+# Secrets - never commit your real credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+
+# Logs / generated artefacts
+suppressMessages.log
